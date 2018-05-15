@@ -1,3 +1,5 @@
+# Code is from Udemy: "The Python Mega Course: Build 10 Real World Applications" by Ardit Sulce
+
 import glob2
 from datetime import datetime
 
