@@ -1,2 +1,2 @@
-# Code Tutorials
-Stores HowToDocs
+# Python Coding Tutorials
+Folder for python how-to documents
