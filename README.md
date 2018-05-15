@@ -1,2 +1,2 @@
-# HowToDocs_py
+# Code Tutorials
 Stores HowToDocs
